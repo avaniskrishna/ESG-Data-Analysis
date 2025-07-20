@@ -29,7 +29,7 @@ This repository is organized to provide a clear understanding of the project's d
 
 - `ESG Performance Analysis.docx`: This Microsoft Word document presents the comprehensive report of the ESG analysis, including key findings, correlation analysis results, and strategic recommendations. It serves as the primary deliverable of the project.
 
-- `Visualisation Dashboard .pdf`: This PDF contains a tableau dashboard summarizing the ESG performance,  including charts and graphs that present overall ESG scores, environmental impact vs. ESG score, and company positioning based on environmental and social metrics.
+- `Visualisation Dashboard .pdf`: This PDF contains a tableau dashboard summarizing the ESG performance,  including charts and graphs that present overall ESG scores, environmental impact vs. ESG score, and company positioning based on environmental and social metrics. The public link of the tableu dashboard - https://public.tableau.com/views/ESGvisualisation/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ## Data Description
